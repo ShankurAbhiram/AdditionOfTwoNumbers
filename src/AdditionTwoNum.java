@@ -6,7 +6,7 @@ public class AdditionTwoNum {
 		int num2=30; 
 		int res =num1+num2;
 		System.out.println("Addition of two numbers   "+ res);
-		System.out.println("abhi is looser");
+		System.out.println("abhi is successful person");
 
 	}
 
